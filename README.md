@@ -1,6 +1,6 @@
 # Hybrid AI/ML CV Screening & Candidate Ranking Platform
 
-Project ini merupana Proof of Concept untuk otomatisasi seleksi dan perankingan CV berbasis **Hybrid AI/ML** yang dirancang untuk berbagai type lowongan
+Project ini merupakan Proof of Concept untuk otomatisasi seleksi dan perankingan CV berbasis **Hybrid AI/ML** yang dirancang untuk berbagai type lowongan
 
 Proyek ini menggabungkan pemahaman konteks **LLM (DeepSeek API)** dengan **guardrail deterministik Python** untuk menjaga transparansi, reproduktibilitas skor, privasi data (*Blind Screening*), dan mekanisme *Human-in-the-Loop* (*Confidence Gate*).
 
