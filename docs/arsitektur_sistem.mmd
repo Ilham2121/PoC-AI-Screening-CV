@@ -1,0 +1,52 @@
+flowchart LR
+    subgraph S1["1. Multi-Channel Ingestion"]
+        JP1["JobStreet / LinkedIn / Glints"]
+        JP2["Email Rekrutmen & Portal Karir"]
+        ORC["Orkestrator Webhook / n8n\nTagging Vacancy ID"]
+        JP1 --> ORC
+        JP2 --> ORC
+    end
+
+    subgraph S2["2. Parsing & Blind Screening"]
+        PAR["Layout-Aware Parser\nPyMuPDF + python-docx"]
+        PII["PII Anonymizer\nSensor Nama, DOB, Kontak, Kampus"]
+        VAULT[("Mapping Identitas Terenkripsi\nCAND-ID <-> Identitas Asli")]
+        ORC --> PAR
+        PAR --> PII
+        PII -.-> VAULT
+    end
+
+    subgraph S3["3. Hybrid AI Extraction & Guardrails"]
+        LLM["DeepSeek API (deepseek-chat)\nStructured JSON Extraction"]
+        LOC["Fallback Local NLP\nMode Offline / Guardrail"]
+        TL["Timeline Deduplicator\nMerge Overlap & Cek Anomali Klaim"]
+        SN["Skill Normalizer\nAlias & Fuzzy Matching"]
+        PII --> LLM
+        PII --> LOC
+        LLM --> TL
+        LOC --> TL
+        TL --> SN
+    end
+
+    subgraph S4["4. Hybrid Matching & Explainability"]
+        VAC["Vacancy Criteria Parser\nRequirements & Responsibilities"]
+        TF["TF-IDF / Embedding Similarity\nKecocokan Semantik Tugas"]
+        RUB["Weighted Scoring & Gate\nSkor 0-100 + Status Keputusan"]
+        EXP["Explainability Generator\nAlasan + Pertanyaan Wawancara"]
+        VAC --> TF
+        VAC --> RUB
+        SN --> TF
+        SN --> RUB
+        TF --> RUB
+        RUB --> EXP
+    end
+
+    subgraph S5["5. Output HR & Integrasi"]
+        UI["Streamlit HR Workbench\nRanking, Audit Bias, Inspeksi Bukti"]
+        XLS["Laporan Excel 4 Sheet & JSON\nSiap Unduh / Arsip"]
+        ATS["Integrasi ATS / HRIS / Email\nUndangan Wawancara"]
+        VAULT -.-> UI
+        EXP --> UI
+        EXP --> XLS
+        UI --> ATS
+    end

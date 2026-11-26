@@ -1,0 +1,1195 @@
+{
+  "metadata": {
+    "run_timestamp": "2026-11-25 17:58:27",
+    "reference_date": "2024-10-01",
+    "vacancy_title": "Junior Architect",
+    "engine_mode": "local_hybrid",
+    "blind_screening_enabled": true,
+    "total_candidates": 5,
+    "shortlisted_count": 2,
+    "kiv_count": 1,
+    "manual_review_count": 0,
+    "rejected_count": 2,
+    "processing_seconds": 3.07,
+    "total_tokens_used": 0,
+    "total_estimated_cost_usd": 0.0,
+    "weights_used": {
+      "relevant_experience": 30.0,
+      "software_technical": 25.0,
+      "education": 15.0,
+      "responsibility_fit": 20.0,
+      "regulatory_readiness": 10.0
+    }
+  },
+  "vacancy": {
+    "title": "Junior Architect",
+    "domain": "architecture",
+    "required_degree_fields": [
+      "Architecture",
+      "Interior Design"
+    ],
+    "min_years_relevant_experience": 2.0,
+    "accepts_fresh_graduate": false,
+    "required_software": [
+      "AutoCAD",
+      "SketchUp",
+      "Revit"
+    ],
+    "preferred_skills": [],
+    "key_technical_skills": [
+      "Technical Drawing",
+      "3D Modeling & Visualization",
+      "Design & Build",
+      "Building Codes & Regulatory Standards",
+      "Material & Supplier Sourcing",
+      "Project Management & Collaboration"
+    ],
+    "responsibilities": [
+      "To support in the creation and development of conceptual designs and ideas.",
+      "Plan, implement and monitor projects from beginning to end.",
+      "Creating work models and modelling for space.",
+      "Working with suppliers to source and procure specs of interior, materials for fittings, furniture,",
+      "lighting, accessories and decorations.",
+      "Compiling finish timelines and working with project delivery services and facilities"
+    ],
+    "requirements_raw": [
+      "Degree in architecture, interior design, or a related field",
+      "Interior designer/ Architect with minimum 2 years experience in design and build",
+      "Visionary, creative, resilient, problem solver, insightful, learner",
+      "Strong creative and visualization skills",
+      "Excellent technical drawing skills",
+      "Strong communication and project management skills",
+      "Knowledge of software programs such as AutoCAD, Sketchup, Revit",
+      "Good interpersonal and presentation skills",
+      "Knowledge of building codes and regulatory standards",
+      "Available join ASAP"
+    ],
+    "raw_text": "Junior Architect\nREQUIREMENTS:\nDegree in architecture, interior design, or a related field\nInterior designer/ Architect with minimum 2 years experience in design and build\nVisionary, creative, resilient, problem solver, insightful, learner\nStrong creative and visualization skills\nExcellent technical drawing skills\nStrong communication and project management skills\nKnowledge of software programs such as AutoCAD, Sketchup, Revit\nGood interpersonal and presentation skills\nKnowledge of building codes and regulatory standards\nAvailable join ASAP\nRESPONSIBILITIES:\nTo support in the creation and development of conceptual designs and ideas.\nPlan, implement and monitor projects from beginning to end.\nCreating work models and modelling for space.\nWorking with suppliers to source and procure specs of interior, materials for fittings, furniture,\nlighting, accessories and decorations.\nCompiling finish timelines and working with project delivery services and facilities",
+    "requires_asap_join": true,
+    "requires_regulatory_compliance": true
+  },
+  "evaluations": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND-001",
+      "candidate_name": "Bayu",
+      "source_filename": "CV Sample 1.pdf",
+      "source_channel": "JobStreet Profile Export",
+      "overall_score": 91.4,
+      "semantic_similarity_score": 21.7,
+      "status": "Shortlisted (Wawancara)",
+      "needs_manual_review": false,
+      "manual_review_reasons": [],
+      "dimension_scores": {
+        "relevant_experience": 98.0,
+        "software_technical": 100.0,
+        "education": 100.0,
+        "responsibility_fit": 64.8,
+        "regulatory_readiness": 90.0
+      },
+      "matched_required_software": [
+        "AutoCAD",
+        "SketchUp",
+        "Revit"
+      ],
+      "missing_required_software": [],
+      "degree_requirement_met": true,
+      "experience_requirement_met": true,
+      "strengths": [
+        "Memenuhi syarat gelar S1 di bidang Architecture/Interior Design.",
+        "Menguasai seluruh software/tools utama lowongan (AutoCAD, SketchUp, Revit) beserta teknologi pendukung.",
+        "Memiliki 6.8 tahun pengalaman relevan bersih (setelah deduplikasi periode tumpang tindih).",
+        "Terdapat bukti eksplisit kepatuhan terhadap kode bangunan, standar keselamatan, atau regulasi lokal."
+      ],
+      "gaps_and_risks": [
+        "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP)."
+      ],
+      "decision_rationale": "Direkomendasikan untuk tahap wawancara posisi Junior Architect karena memenuhi gelar yang disyaratkan, menguasai stack utama (AutoCAD, SketchUp, Revit), serta memiliki bukti pengalaman nyata di arsitektur/design & build dengan durasi relevan bersih 6.8 tahun.",
+      "interview_questions": [
+        "Terdapat beberapa peran kerja dengan rentang waktu bersamaan di CV Anda. Bagaimana pembagian peran penuh waktu vs freelance/proyek pada periode tersebut?",
+        "Pada CV tercantum perkiraan tanggal kelulusan sarjana. Apakah ijazah S1 sudah resmi diterbitkan dan siap dilampirkan saat verifikasi?",
+        "Mengingat posisi saat ini masih aktif bekerja penuh waktu, berapa lama masa notice period Anda dan kapan tanggal paling cepat dapat bergabung?"
+      ],
+      "anomaly_flags": [
+        "Overlap tanggal dideduplikasi: mentah 114 bln menjadi bersih 81 bln.",
+        "Gelar pendidikan tercantum dengan keterangan perkiraan kelulusan (expected) - perlu verifikasi ijazah resmi.",
+        "Sebagian pengalaman relevan dijalani sebelum/paralel kuliah (total bersih 6.8 thn; pasca-lulus 1.3 thn)."
+      ],
+      "pii_redactions_count": 5,
+      "pii_redacted_categories": [
+        "Email",
+        "Nomor Telepon",
+        "Nama Kandidat",
+        "Nama Institusi Pendidikan (Anti Halo-Effect)"
+      ],
+      "extracted_cv": {
+        "candidate_id": "CAND-001",
+        "source_filename": "CV Sample 1.pdf",
+        "source_channel": "JobStreet Profile Export",
+        "detected_name": "Bayu",
+        "language_mix": "Campuran Indonesia & Inggris",
+        "summary_text": "I started my architectural journey by studying [INSTITUTION_REDACTED]. After that, I started working in the architectural field as a site supervisor and drafter at a construction company in 2018-2019. Then, I explored other experiences by working as a freelance interior designer alongside my main job. From there I began to explore the world of architecture and interior design until now.",
+        "education": [
+          {
+            "degree_level": "Bachelor",
+            "field_of_study": "Sarjana Arsitektur (Teknik)",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "Completed",
+            "start_year": 2023,
+            "end_year": 2023,
+            "is_relevant_field": true,
+            "is_expected_graduation": true
+          }
+        ],
+        "work_experiences": [
+          {
+            "role": "Interior Designer",
+            "company": "PT Lumino",
+            "employment_type": "Full-time",
+            "start_date": "2023-09",
+            "end_date": "Present",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": []
+          },
+          {
+            "role": "Architectural Drafter",
+            "company": "PT Inkoneksi Izi Konsultan",
+            "employment_type": "Full-time",
+            "start_date": "2023-01",
+            "end_date": "2023-09",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Visiting the site and contributing to project coordination meetings.",
+              "Creating architectural working drawings using CAD.",
+              "Collaborating with engineers and contractors to address design",
+              "challenges."
+            ]
+          },
+          {
+            "role": "Interior Architect",
+            "company": "Skezma Studio",
+            "employment_type": "Full-time",
+            "start_date": "2018-02",
+            "end_date": "2023-09",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Conducting site measurements and surveys with the owner to obtain",
+              "necessary data.",
+              "Determining a concept that aligns with the owner's preferences.",
+              "Initiating 3D modeling of the design based on the concept and survey,",
+              "then proceeding to the rendering stage and making revisions if"
+            ]
+          },
+          {
+            "role": "Quality Control",
+            "company": "PT Adhi Persada Gedung",
+            "employment_type": "Full-time",
+            "start_date": "2022-09",
+            "end_date": "2022-12",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Learning to understand technical specifications, quality standards,",
+              "and project requirements.",
+              "Checking and ensuring that materials and components used meet the",
+              "specifications.",
+              "Detecting and documenting defects or flaws found during inspections",
+              "or testing.",
+              "Creating inspection reports that document QC findings, including",
+              "defects and test results.",
+              "Ensuring that safety aspects are also considered in QC, especially in",
+              "potentially hazardous construction projects."
+            ]
+          },
+          {
+            "role": "desain interior",
+            "company": "PT. DELTA ELOK LESTARI",
+            "employment_type": "Full-time",
+            "start_date": "2020-01",
+            "end_date": "2020-05",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": []
+          },
+          {
+            "role": "kontraktor",
+            "company": "CV Media Sarana Cipta Buana",
+            "employment_type": "Full-time",
+            "start_date": "2018-06",
+            "end_date": "2019-07",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Conducting a site survey before commencing construction work is the",
+              "initial step in the construction project.",
+              "Holding coordination meetings with the project owner and planning",
+              "consultant involves bringing together key stakeholders to discuss",
+              "Creating shop drawings and as-built drawings involves producing",
+              "detailed technical drawings.",
+              "Monitoring the project during the execution of the work in line with the",
+              "work order is a crucial task."
+            ]
+          }
+        ],
+        "organizational_experiences_count": 0,
+        "skills_raw": [
+          "Lumion, Sketchup, AUTOCAD, Adobe Photoshop, Adobe Illustrator,",
+          "VRAY, twinmotion, Revit Architecture"
+        ],
+        "skills_normalized": [
+          "Lumion",
+          "SketchUp",
+          "AutoCAD",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "V-Ray",
+          "Twinmotion",
+          "Revit",
+          "2D & 3D Modeling",
+          "Technical Drawing"
+        ],
+        "has_building_codes_evidence": true,
+        "building_codes_evidence": [
+          "Learning to understand technical specifications, quality standards,"
+        ],
+        "has_design_and_build_evidence": true,
+        "design_and_build_evidence": [
+          "Architectural Drafter (2023-01 s.d. 2023-09)",
+          "Interior Architect (2018-02 s.d. 2023-09)",
+          "Quality Control (2022-09 s.d. 2022-12)",
+          "kontraktor (2018-06 s.d. 2019-07)"
+        ],
+        "has_supplier_or_material_evidence": true,
+        "availability_signals": [
+          "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP)."
+        ],
+        "currently_employed": true,
+        "currently_studying": false,
+        "timeline": {
+          "raw_sum_months_all": 114,
+          "merged_months_all": 81,
+          "raw_sum_months_relevant": 114,
+          "merged_months_relevant": 81,
+          "merged_years_relevant": 6.75,
+          "post_graduation_years_relevant": 1.33,
+          "has_overlapping_roles": true,
+          "overlap_notes": [
+            "Periode tumpang tindih (14 bulan) antara 'Interior Architect (Skezma Studio)' dan 'kontraktor (CV Media Sarana Cipta Buana)' telah dideduplikasi.",
+            "Periode tumpang tindih (5 bulan) antara 'Interior Architect (Skezma Studio)' dan 'desain interior (PT. DELTA ELOK LESTARI)' telah dideduplikasi.",
+            "Periode tumpang tindih (4 bulan) antara 'Interior Architect (Skezma Studio)' dan 'Quality Control (PT Adhi Persada Gedung)' telah dideduplikasi.",
+            "Periode tumpang tindih (9 bulan) antara 'Interior Architect (Skezma Studio)' dan 'Architectural Drafter (PT Inkoneksi Izi Konsultan)' telah dideduplikasi."
+          ],
+          "claimed_years_in_summary": null,
+          "claim_discrepancy_flag": false,
+          "claim_discrepancy_note": ""
+        },
+        "raw_text_char_count": 2596,
+        "extraction_warnings": [],
+        "fallback_used": false,
+        "extraction_engine": "local_hybrid",
+        "llm_tokens_used": 0,
+        "estimated_cost_usd": 0.0
+      },
+      "pii_audit": {
+        "candidate_id": "CAND-001",
+        "detected_name": "Bayu",
+        "anonymized_text": "[CAND-001]\n[EMAIL_REDACTED]\n[PHONE_REDACTED]\nRingkasan I started my architectural journey by studying [INSTITUTION_REDACTED].\nAfter that, I started working in the architectural field as a site supervisor\nand drafter at a construction company in 2018-2019. Then, I explored\nother experiences by working as a freelance interior designer alongside\nmy main job. From there I began to explore the world of architecture\nand interior design until now.\nRiwayat karier Interior Designer di PT Lumino\nSep 2023 - Saat ini (1 tahun)\nArchitectural Drafter di PT Inkoneksi Izi Konsultan\nJan 2023 - Sep 2023 (9 bulan)\n• Visiting the site and contributing to project coordination meetings.\n• Creating architectural working drawings using CAD.\n• Collaborating with engineers and contractors to address design\nchallenges.\nInterior Architect di Skezma Studio\nFeb 2018 - Sep 2023 (5 tahun 8 bulan)\n• Conducting site measurements and surveys with the owner to obtain\nnecessary data.\n• Determining a concept that aligns with the owner's preferences.\n• Initiating 3D modeling of the design based on the concept and survey,\nthen proceeding to the rendering stage and making revisions if\nnecessary.\nQuality Control di PT Adhi Persada Gedung\nSep 2022 - Des 2022 (4 bulan)\n• Learning to understand technical specifications, quality standards,\nand project requirements.\n• Checking and ensuring that materials and components used meet the\nspecifications.\n\n• Detecting and documenting defects or flaws found during inspections\nor testing.\n• Creating inspection reports that document QC findings, including\ndefects and test results.\n• Ensuring that safety aspects are also considered in QC, especially in\npotentially hazardous construction projects.\ndesain interior di PT. DELTA ELOK LESTARI\nJan 2020 - Mei 2020 (5 bulan)\nkontraktor di CV Media Sarana Cipta Buana\nJun 2018 - Jul 2019 (1 tahun 2 bulan)\n• Conducting a site survey before commencing construction work is the\ninitial step in the construction project.\n• Holding coordination meetings with the project owner and planning\nconsultant involves bringing together key stakeholders to discuss\nproject plans, changes, and progress.\n• Creating shop drawings and as-built drawings involves producing\ndetailed technical drawings.\n• Monitoring the project during the execution of the work in line with the\nwork order is a crucial task.\nKeahlian Lumion, Sketchup, AUTOCAD, Adobe Photoshop, Adobe Illustrator,\nVRAY, twinmotion, Revit Architecture\nBahasa Bahasa Indonesia, English\nPendidikan Sarjana Arsitektur (Teknik) dari [INSTITUTION_REDACTED]\nPerkiraan tanggal selesai Okt 2023",
+        "redacted_items": [
+          {
+            "category": "Email",
+            "count": 1,
+            "sample_redacted_label": "[EMAIL_REDACTED]"
+          },
+          {
+            "category": "Nomor Telepon",
+            "count": 1,
+            "sample_redacted_label": "[PHONE_REDACTED]"
+          },
+          {
+            "category": "Nama Kandidat",
+            "count": 1,
+            "sample_redacted_label": "[CAND-001]"
+          },
+          {
+            "category": "Nama Institusi Pendidikan (Anti Halo-Effect)",
+            "count": 2,
+            "sample_redacted_label": "[INSTITUTION_REDACTED]"
+          }
+        ],
+        "total_redactions": 5
+      }
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND-004",
+      "candidate_name": "Indri",
+      "source_filename": "CV Sample 4.pdf",
+      "source_channel": "Direct Portal / Email Intake",
+      "overall_score": 86.7,
+      "semantic_similarity_score": 33.5,
+      "status": "Shortlisted (Wawancara)",
+      "needs_manual_review": false,
+      "manual_review_reasons": [],
+      "dimension_scores": {
+        "relevant_experience": 88.0,
+        "software_technical": 91.0,
+        "education": 100.0,
+        "responsibility_fit": 70.1,
+        "regulatory_readiness": 85.0
+      },
+      "matched_required_software": [
+        "AutoCAD",
+        "SketchUp",
+        "Revit"
+      ],
+      "missing_required_software": [],
+      "degree_requirement_met": true,
+      "experience_requirement_met": true,
+      "strengths": [
+        "Memenuhi syarat gelar S1 bidang Architecture/Interior Design (dan sedang menempuh studi S2).",
+        "Menguasai seluruh software/tools utama lowongan (AutoCAD, SketchUp, Revit) beserta teknologi pendukung.",
+        "Memiliki 2.0 tahun pengalaman relevan bersih (setelah deduplikasi periode tumpang tindih).",
+        "Terdapat bukti eksplisit kepatuhan terhadap kode bangunan, standar keselamatan, atau regulasi lokal."
+      ],
+      "gaps_and_risks": [
+        "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP).",
+        "Sedang menempuh studi aktif: Master (Master of Architecture) (perlu konfirmasi jadwal kuliah vs kerja penuh waktu)."
+      ],
+      "decision_rationale": "Direkomendasikan untuk tahap wawancara posisi Junior Architect karena memenuhi gelar yang disyaratkan, menguasai stack utama (AutoCAD, SketchUp, Revit), serta memiliki bukti pengalaman nyata di arsitektur/design & build dengan durasi relevan bersih 2.0 tahun.",
+      "interview_questions": [
+        "Terdapat beberapa peran kerja dengan rentang waktu bersamaan di CV Anda. Bagaimana pembagian peran penuh waktu vs freelance/proyek pada periode tersebut?",
+        "Saat ini Anda masih tercatat menempuh pendidikan aktif. Bagaimana pengaturan jadwal kuliah apabila diterima untuk bergabung secara penuh waktu?",
+        "Mengingat posisi saat ini masih aktif bekerja penuh waktu, berapa lama masa notice period Anda dan kapan tanggal paling cepat dapat bergabung?"
+      ],
+      "anomaly_flags": [
+        "Overlap tanggal dideduplikasi: mentah 45 bln menjadi bersih 24 bln.",
+        "1 kegiatan organisasi/kepanitiaan dipisahkan dari perhitungan pengalaman kerja."
+      ],
+      "pii_redactions_count": 8,
+      "pii_redacted_categories": [
+        "Email",
+        "Nomor Telepon",
+        "Alamat / Domisili",
+        "Nama Kandidat",
+        "Nama Institusi Pendidikan (Anti Halo-Effect)"
+      ],
+      "extracted_cv": {
+        "candidate_id": "CAND-004",
+        "source_filename": "CV Sample 4.pdf",
+        "source_channel": "Direct Portal / Email Intake",
+        "detected_name": "Indri",
+        "language_mix": "Bahasa Inggris",
+        "summary_text": "A dedicated and hardworking professional in the field of architecture, currently pursuing a Master's degree to deepen my expertise and knowledge. Known for my strong work ethic, excellent interpersonal skills, and eagerness to learn, I am committed to delivering high- quality work and collaborating effectively with diverse teams. With a solid foundation in architectural design and project management, I am seeking opportunities to apply my academic learning and hands-on experience to contribute to innovative and sustainable",
+        "education": [
+          {
+            "degree_level": "Master",
+            "field_of_study": "Master of Architecture",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "In Progress",
+            "start_year": 2024,
+            "end_year": 2025,
+            "is_relevant_field": true,
+            "is_expected_graduation": true
+          },
+          {
+            "degree_level": "Bachelor",
+            "field_of_study": "Bachelor of Architecture",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "Completed",
+            "start_year": 2018,
+            "end_year": 2022,
+            "is_relevant_field": true,
+            "is_expected_graduation": false
+          }
+        ],
+        "work_experiences": [
+          {
+            "role": "Architectural Intern",
+            "company": "PT Desain Visi",
+            "employment_type": "Intern",
+            "start_date": "2021-10",
+            "end_date": "2021-12",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Studied and analyzed various building materials and gained insights into building concepts specifically for residential housing.",
+              "Conducted detailed analysis and developed an initial building concept for a mixed-use mall project in the Jakarta area, ensuring",
+              "optimal space utilization and compliance with local regulations.",
+              "Performed site analysis and proposed basic conceptual designs for a Type C hospital in Subang, West Java, focusing on functionality,",
+              "patient flow, and regulatory requirements.",
+              "Designed and created a building concept proposal for a corporate office building in the Jakarta area, incorporating modern",
+              "architectural trends and ensuring efficiency in workspace design.",
+              "Compiled and scheduled working drawings for residential building projects, ensuring all drawings met project deadlines and",
+              "specifications for construction teams."
+            ]
+          },
+          {
+            "role": "Architect & drafter",
+            "company": "PT Global Citra Prima/Marunda Center",
+            "employment_type": "Full-time",
+            "start_date": "2023-02",
+            "end_date": "Present",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Designed and created detailed drawings for the cafeteria area within the development, ensuring functionality, safety, and aesthetic",
+              "alignment with the overall site plan.",
+              "Contributed as a design team member in the creation of detailed drawings for a new MR DIY warehouse, collaborating with structural",
+              "engineers and project managers to ensure efficient space planning and compliance with safety standards.",
+              "Worked as part of the design team to create detailed architectural drawings for the warehouse and workshop facilities at Halliburton",
+              "Indonesia, optimizing layout for operational efficiency.",
+              "Developed and designed architectural concepts for the head office building at Marunda Center, incorporating modern design",
+              "principles and client requirements to create a functional and aesthetic workspace.",
+              "Produced 3D renderings and visualizations for the bridge design within the development area, providing visual context for",
+              "stakeholders and clients to understand the project scope and design intent.",
+              "Designed landscape features for the dome building in the area, creating green spaces that complemented the architectural design",
+              "and improved the building’s environmental impact."
+            ]
+          },
+          {
+            "role": "Architectural Freelance",
+            "company": "",
+            "employment_type": "Freelance",
+            "start_date": "2023-02",
+            "end_date": "Present",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Designed, created detailed drawings, and produced 3D renderings for a residential project in Bekasi, overseeing the project from",
+              "concept through to completion to ensure quality and adherence to design standards.",
+              "Provided architectural design concepts for the interior of a studio apartment in Bekasi, focusing on maximizing space efficiency and",
+              "aesthetic appeal while adhering to client requirements and budget constraints.",
+              "Developed design proposals and detailed drawings for a residential building project in Bekasi, ensuring all technical specifications,",
+              "safety standards, and local building codes were met.",
+              "Created design proposals and supervised renovations for a residential project in Bekasi, managing project timelines and ensuring that",
+              "the renovation work adhered to the original design intent and client specifications."
+            ]
+          }
+        ],
+        "organizational_experiences_count": 1,
+        "skills_raw": [
+          "Soft Skills : Public Speaking",
+          "Soft Skills : Problem Solving",
+          "Soft Skills : Attention to Detail",
+          "Hard Skills : Architectural Design Software: Autocad, Revit, Sketch Up, Lumion & Enscape",
+          "Hard Skills : Architectural Drafting & Detailing",
+          "Hard Skills : Construction Management & Site Supervision",
+          "Hard Skills : Sustainability and Green Building Design",
+          "Hard Skills : Graphic Design & Presentation Tools",
+          "Hard Skills : Landscape Architecture"
+        ],
+        "skills_normalized": [
+          "Soft Skills : Public Speaking",
+          "Soft Skills : Problem Solving",
+          "Soft Skills : Attention to Detail",
+          "AutoCAD",
+          "Revit",
+          "SketchUp",
+          "Lumion",
+          "Enscape",
+          "Technical Drawing",
+          "Project Management",
+          "Green Building & Sustainability",
+          "Sustainability",
+          "Hard Skills : Graphic Design",
+          "Presentation Tools",
+          "Landscape Architecture",
+          "Java"
+        ],
+        "has_building_codes_evidence": true,
+        "building_codes_evidence": [
+          "optimal space utilization and compliance with local regulations.",
+          "patient flow, and regulatory requirements.",
+          "engineers and project managers to ensure efficient space planning and compliance with safety standards.",
+          "safety standards and adhered to the local building regulations."
+        ],
+        "has_design_and_build_evidence": true,
+        "design_and_build_evidence": [
+          "Architectural Intern (2021-10 s.d. 2021-12)",
+          "Architectural Freelance (2023-02 s.d. Present)"
+        ],
+        "has_supplier_or_material_evidence": true,
+        "availability_signals": [
+          "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP).",
+          "Sedang menempuh studi aktif: Master (Master of Architecture) (perlu konfirmasi jadwal kuliah vs kerja penuh waktu)."
+        ],
+        "currently_employed": true,
+        "currently_studying": true,
+        "timeline": {
+          "raw_sum_months_all": 45,
+          "merged_months_all": 24,
+          "raw_sum_months_relevant": 45,
+          "merged_months_relevant": 24,
+          "merged_years_relevant": 2.0,
+          "post_graduation_years_relevant": 1.75,
+          "has_overlapping_roles": true,
+          "overlap_notes": [
+            "Periode tumpang tindih (21 bulan) antara 'Architect & drafter (PT Global Citra Prima/Marunda Center)' dan 'Architectural Freelance' telah dideduplikasi."
+          ],
+          "claimed_years_in_summary": null,
+          "claim_discrepancy_flag": false,
+          "claim_discrepancy_note": ""
+        },
+        "raw_text_char_count": 6430,
+        "extraction_warnings": [],
+        "fallback_used": false,
+        "extraction_engine": "local_hybrid",
+        "llm_tokens_used": 0,
+        "estimated_cost_usd": 0.0
+      },
+      "pii_audit": {
+        "candidate_id": "CAND-004",
+        "detected_name": "Indri",
+        "anonymized_text": "[CAND-004]\n[PHONE_REDACTED] | [EMAIL_REDACTED] |\nA dedicated and hardworking professional in the field of architecture, currently pursuing a Master's degree to deepen my expertise and\nknowledge. Known for my strong work ethic, excellent interpersonal skills, and eagerness to learn, I am committed to delivering high-\nquality work and collaborating effectively with diverse teams. With a solid foundation in architectural design and project management, I\nam seeking opportunities to apply my academic learning and hands-on experience to contribute to innovative and sustainable\narchitectural solutions.\nWork Experiences\nPT Desain Visi - [ADDRESS_REDACTED] Oct 2021 - Dec 2021\nArchitectural Intern\nArchitectural Firm\nStudied and analyzed various building materials and gained insights into building concepts specifically for residential housing.\nConducted detailed analysis and developed an initial building concept for a mixed-use mall project in the Jakarta area, ensuring\noptimal space utilization and compliance with local regulations.\nPerformed site analysis and proposed basic conceptual designs for a Type C hospital in Subang, West Java, focusing on functionality,\npatient flow, and regulatory requirements.\nDesigned and created a building concept proposal for a corporate office building in the Jakarta area, incorporating modern\narchitectural trends and ensuring efficiency in workspace design.\nCompiled and scheduled working drawings for residential building projects, ensuring all drawings met project deadlines and\nspecifications for construction teams.\nPT Global Citra Prima/Marunda Center - [ADDRESS_REDACTED] Feb 2023 - Present\nArchitect & drafter\nIntegrated Port, Industrial and Logistics Center Developer\nDesigned and created detailed drawings for the cafeteria area within the development, ensuring functionality, safety, and aesthetic\nalignment with the overall site plan.\nContributed as a design team member in the creation of detailed drawings for a new MR DIY warehouse, collaborating with structural\nengineers and project managers to ensure efficient space planning and compliance with safety standards.\nWorked as part of the design team to create detailed architectural drawings for the warehouse and workshop facilities at Halliburton\nIndonesia, optimizing layout for operational efficiency.\nDeveloped and designed architectural concepts for the head office building at Marunda Center, incorporating modern design\nprinciples and client requirements to create a functional and aesthetic workspace.\nProduced 3D renderings and visualizations for the bridge design within the development area, providing visual context for\nstakeholders and clients to understand the project scope and design intent.\nDesigned landscape features for the dome building in the area, creating green spaces that complemented the architectural design\nand improved the building’s environmental impact.\nLed design development, detailed drawing creation, and site supervision for the construction of a police post, ensuring the project met\nsafety standards and adhered to the local building regulations.\nContributed to the design team for the construction of a floodgate, ensuring efficient water management solutions while maintaining\nstructural integrity and compliance with environmental regulations.\nSupervised and created design drawings for an electrical substation building, coordinating with engineers to ensure safety and\nfunctionality while minimizing energy consumption and operational costs.\nDesigned and developed detailed drawings for a new roadway within the area, optimizing traffic flow and ensuring safety and\naccessibility for both pedestrians and vehicles.\nCollaborated as part of the design team for the development of the entire site, contributing to the overall concept design and\ndevelopment, ensuring all elements were integrated effectively and met client expectations.\nArchitectural Freelance - [ADDRESS_REDACTED] Feb 2023 - Present\nDesigned, created detailed drawings, and produced 3D renderings for a residential project in Bekasi, overseeing the project from\nconcept through to completion to ensure quality and adherence to design standards.\nProvided architectural design concepts for the interior of a studio apartment in Bekasi, focusing on maximizing space efficiency and\naesthetic appeal while adhering to client requirements and budget constraints.\nDeveloped design proposals and detailed drawings for a residential building project in Bekasi, ensuring all technical specifications,\nsafety standards, and local building codes were met.\nCreated design proposals and supervised renovations for a residential project in Bekasi, managing project timelines and ensuring that\nthe renovation work adhered to the original design intent and client specifications.\n\nEducation Level\n[INSTITUTION_REDACTED] - Indonesia Jul 2018 - Jul 2022\nBachelor of Architecture, 3.27/4.00\nJournal Publication \"Perancangan Teater pada Kawasan Marunda untuk Mengatasi Permasalahan Lingkungan yang Mengalami\nIndustrialisasi\"\n[INSTITUTION_REDACTED] - Indonesia Feb 2024 - Aug 2025 (Expected)\nMaster of Architecture\nOrganisational Experience\nPembangunan Kampung Apung 2021: Floating Children Facilities scale1:1 - Indonesia Mar 2021 - Jun 2021\nMember\nCommunity service activities in Kampung Apung, West Jakarta\nEngaged with the local community to learn about their daily activities and needs, gathering input to ensure that design solutions are\naligned with their lifestyles, cultural practices, and economic conditions\nBintaro Design Distric - Indonesia Nov 2023\nVolunteer\nManaged ticketing operations within the Bintaro Design District area, ensuring smooth entry and exit for visitors, handling inquiries,\nand providing timely assistance to attendees.\nProvided detailed explanations of design concepts and key features within the Bintaro Design District, guiding visitors through the\ndesign elements and architectural points, ensuring a clear understanding of the area's creative vision and layout.\nSkills\nSoft Skills : Public Speaking\nSoft Skills : Problem Solving\nSoft Skills : Attention to Detail\nHard Skills : Architectural Design Software: Autocad, Revit, Sketch Up, Lumion & Enscape\nHard Skills : Architectural Drafting & Detailing\nHard Skills : Construction Management & Site Supervision\nHard Skills : Sustainability and Green Building Design\nHard Skills : Graphic Design & Presentation Tools\nHard Skills : Landscape Architecture",
+        "redacted_items": [
+          {
+            "category": "Email",
+            "count": 1,
+            "sample_redacted_label": "[EMAIL_REDACTED]"
+          },
+          {
+            "category": "Nomor Telepon",
+            "count": 1,
+            "sample_redacted_label": "[PHONE_REDACTED]"
+          },
+          {
+            "category": "Alamat / Domisili",
+            "count": 3,
+            "sample_redacted_label": "[ADDRESS_REDACTED]"
+          },
+          {
+            "category": "Nama Kandidat",
+            "count": 1,
+            "sample_redacted_label": "[CAND-004]"
+          },
+          {
+            "category": "Nama Institusi Pendidikan (Anti Halo-Effect)",
+            "count": 2,
+            "sample_redacted_label": "[INSTITUTION_REDACTED]"
+          }
+        ],
+        "total_redactions": 8
+      }
+    },
+    {
+      "rank": 3,
+      "candidate_id": "CAND-002",
+      "candidate_name": "Permana Abadi",
+      "source_filename": "CV Sample 2.pdf",
+      "source_channel": "Direct Portal / Email Intake",
+      "overall_score": 71.8,
+      "semantic_similarity_score": 14.2,
+      "status": "Pertimbangan Khusus (KIV)",
+      "needs_manual_review": false,
+      "manual_review_reasons": [],
+      "dimension_scores": {
+        "relevant_experience": 82.3,
+        "software_technical": 68.2,
+        "education": 100.0,
+        "responsibility_fit": 47.6,
+        "regulatory_readiness": 55.0
+      },
+      "matched_required_software": [
+        "AutoCAD",
+        "SketchUp"
+      ],
+      "missing_required_software": [
+        "Revit"
+      ],
+      "degree_requirement_met": true,
+      "experience_requirement_met": true,
+      "strengths": [
+        "Memenuhi syarat gelar S1 di bidang Architecture/Interior Design.",
+        "Menguasai sebagian software/tools yang diminta (AutoCAD, SketchUp).",
+        "Memiliki 3.1 tahun pengalaman relevan bersih (setelah deduplikasi periode tumpang tindih).",
+        "Memiliki pengalaman nyata lintas tahapan design & build (survei lokasi, gambar kerja/shop drawing, dan pengawasan proyek)."
+      ],
+      "gaps_and_risks": [
+        "Belum mencantumkan penguasaan software/tools wajib: Revit.",
+        "Belum terlihat bukti eksplisit penguasaan building codes dan standar regulasi bangunan di CV.",
+        "Berstatus Freelancer aktif (fleksibilitas tinggi untuk bergabung ASAP)."
+      ],
+      "decision_rationale": "Masuk kategori pertimbangan khusus untuk posisi Junior Architect karena memiliki dasar pendidikan dan latar relevan (3.1 tahun bersih), namun belum memenuhi seluruh kriteria utama (kekurangan: Revit).",
+      "interview_questions": [
+        "Lowongan Junior Architect membutuhkan Revit. Sejauh mana familiaritas Anda dan berapa lama waktu adaptasi yang dibutuhkan?",
+        "Ceritakan pengalaman Anda berkoordinasi dengan supplier material interior, menyusun timeline penyelesaian proyek, serta menangani revisi di lapangan."
+      ],
+      "anomaly_flags": [
+        "3 kegiatan organisasi/kepanitiaan dipisahkan dari perhitungan pengalaman kerja."
+      ],
+      "pii_redactions_count": 9,
+      "pii_redacted_categories": [
+        "Email",
+        "Nomor Telepon",
+        "Alamat / Domisili",
+        "Nama Kandidat",
+        "Nama Institusi Pendidikan (Anti Halo-Effect)"
+      ],
+      "extracted_cv": {
+        "candidate_id": "CAND-002",
+        "source_filename": "CV Sample 2.pdf",
+        "source_channel": "Direct Portal / Email Intake",
+        "detected_name": "Permana Abadi",
+        "language_mix": "Bahasa Inggris",
+        "summary_text": "As a graduate with a diverse background in design, I bring a blend of creativity and practicality to every project. I thrive on developing innovative designs that not only look great on paper but also translate into real-world solutions. My dedication to making a positive impact shines through my ability to communicate effectively, collaborate seamlessly, and adapt to new challenges. I'm driven by the desire to create spaces that inspire and improve the lives of those who interact with them, underpinned by my strong interpersonal and problem-solving skills.",
+        "education": [
+          {
+            "degree_level": "Bachelor",
+            "field_of_study": "Bachelors of Architecture (B.Arch.)",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "Completed",
+            "start_year": null,
+            "end_year": null,
+            "is_relevant_field": true,
+            "is_expected_graduation": false
+          }
+        ],
+        "work_experiences": [
+          {
+            "role": "Freelancer",
+            "company": "Architect",
+            "employment_type": "Freelance",
+            "start_date": "2022-01",
+            "end_date": "Present",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Designed and planning 3 stories house on 290m2 land and 1 story house on 190m2 land. Using AutoCAD",
+              "and SketchUp to do the drawing, Enscape and Lumion for rendering, and Photoshop for finishing.",
+              "Designed public street lighting for the prestigious Dirgahayu Bridge, one of IKN project by Ministry of Public",
+              "Works and Public Housing. Using bamboo shoots ornament, one of the characteristic of Dayak tribe, as the",
+              "main motif. Employed AutoCAD, SketchUp, Enscape and Photoshop for drawing, rendering and finishing.",
+              "Did requirement gathering by observed client personality in order to understand the right concept for the",
+              "client's house design",
+              "Collected data and analyze site conditions as well as the client's needs and desires through interviews, taking",
+              "into account the technical requirements"
+            ]
+          },
+          {
+            "role": "Architectural Designer Intern",
+            "company": "PT Bandung Inti",
+            "employment_type": "Intern",
+            "start_date": "2019-06",
+            "end_date": "2019-08",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Designing and planning the interior and exterior of some projects of the company, such as BTC Fashion Mall",
+              "Renovation, Jatinangor Greenforest Project, Arjasari Resident Project, and Jatinangor Town Square Renovation",
+              "Planning the estimate cost rate of the projects by doing direct survey to the site and also by discussing and",
+              "communicating with other division",
+              "Intense evaluation and revision by discussing with mentor and superior for getting the best result"
+            ]
+          }
+        ],
+        "organizational_experiences_count": 3,
+        "skills_raw": [
+          "2D & 3D Modeling, AutoCAD, SketchUp, Enscape, Lumion, Adobe Photoshop, Microsoft Office, Communication,",
+          "Teamwork.",
+          "English (TOEFL Score: 606)"
+        ],
+        "skills_normalized": [
+          "2D & 3D Modeling",
+          "AutoCAD",
+          "SketchUp",
+          "Enscape",
+          "Lumion",
+          "Adobe Photoshop",
+          "Microsoft Office",
+          "Communication",
+          "Teamwork",
+          "English (TOEFL Score: 606"
+        ],
+        "has_building_codes_evidence": false,
+        "building_codes_evidence": [],
+        "has_design_and_build_evidence": true,
+        "design_and_build_evidence": [
+          "Architectural Designer Intern (2019-06 s.d. 2019-08)"
+        ],
+        "has_supplier_or_material_evidence": true,
+        "availability_signals": [
+          "Berstatus Freelancer aktif (fleksibilitas tinggi untuk bergabung ASAP)."
+        ],
+        "currently_employed": false,
+        "currently_studying": false,
+        "timeline": {
+          "raw_sum_months_all": 37,
+          "merged_months_all": 37,
+          "raw_sum_months_relevant": 37,
+          "merged_months_relevant": 37,
+          "merged_years_relevant": 3.08,
+          "post_graduation_years_relevant": null,
+          "has_overlapping_roles": false,
+          "overlap_notes": [],
+          "claimed_years_in_summary": null,
+          "claim_discrepancy_flag": false,
+          "claim_discrepancy_note": ""
+        },
+        "raw_text_char_count": 4632,
+        "extraction_warnings": [],
+        "fallback_used": false,
+        "extraction_engine": "local_hybrid",
+        "llm_tokens_used": 0,
+        "estimated_cost_usd": 0.0
+      },
+      "pii_audit": {
+        "candidate_id": "CAND-002",
+        "detected_name": "Permana Abadi",
+        "anonymized_text": "[CAND-002]\n[ADDRESS_REDACTED] | | [PHONE_REDACTED] | [EMAIL_REDACTED]\nABOUT ME\nAs a graduate with a diverse background in design, I bring a blend of creativity and practicality to every project. I\nthrive on developing innovative designs that not only look great on paper but also translate into real-world\nsolutions. My dedication to making a positive impact shines through my ability to communicate effectively,\ncollaborate seamlessly, and adapt to new challenges. I'm driven by the desire to create spaces that inspire and\nimprove the lives of those who interact with them, underpinned by my strong interpersonal and problem-solving\nskills.\nEXPERIENCES\nFreelancer\nArchitect\n(January 2022 - present)\nDesigned and planning 3 stories house on 290m2 land and 1 story house on 190m2 land. Using AutoCAD\nand SketchUp to do the drawing, Enscape and Lumion for rendering, and Photoshop for finishing.\nDesigned public street lighting for the prestigious Dirgahayu Bridge, one of IKN project by Ministry of Public\nWorks and Public Housing. Using bamboo shoots ornament, one of the characteristic of Dayak tribe, as the\nmain motif. Employed AutoCAD, SketchUp, Enscape and Photoshop for drawing, rendering and finishing.\nDid requirement gathering by observed client personality in order to understand the right concept for the\nclient's house design\nCollected data and analyze site conditions as well as the client's needs and desires through interviews, taking\ninto account the technical requirements\nPT Bandung Inti\nArchitectural Designer Intern\n(June 2019 - August 2019)\nDesigning and planning the interior and exterior of some projects of the company, such as BTC Fashion Mall\nRenovation, Jatinangor Greenforest Project, Arjasari Resident Project, and Jatinangor Town Square Renovation\nPlanning the estimate cost rate of the projects by doing direct survey to the site and also by discussing and\ncommunicating with other division\nIntense evaluation and revision by discussing with mentor and superior for getting the best result\nEDUCATION\n[INSTITUTION_REDACTED]\nBachelors of Architecture (B.Arch.)\nORGANIZATIONAL EXPERIENCE\n(August 2016 - April 2021)\nIkatan Mahasiswa Gunadharma (August 2017 - April 2021)\nBeing Writer and Publisher in organization magazine named IMAGE. Responsible to deliver monthly theme\nby discussing with other member and looking for a reference and create and article based on that.\nBeing Liaison Officer at organization graduation ceremony. Responsible for building relationships and\ncommunicating with graduates as well as coordinating the needs and activities of the graduates in various\nevents.\nBeing a member of Sponsorship Division in Architecture Field Study Committee. Responsible for raising funds\ntogether with the team through building relationships and sending proposals to various companies and\norganizations.\n\nBeing a member of Appointments Division in Graduation Ceremony Committee. Responsible for managing\nbuilding permits for the inauguration of graduates, arranging the inauguration ceremony with the team, and\nsupervising the inauguration procession.\nUnit Kesenian Sumatera [INSTITUTION_REDACTED] (May 2017 - April 2021)\nBeing Treasurer in Graduation Ceremony Committee. Responsible for organizing and planning event financial\nincome and expenses, recording and coordinating the financial needs of each division in the committee, and\nmaking financial reports and presenting them\nBeing a member of Public Relation Division in 4 Decade Event. Responsible for building relationships and\ncommunicating with UKSU [INSTITUTION_REDACTED] alumni to provide invitations, offering merchandises and record the willingness\nof the alumni to attend the event.\nBeing a member of Medic Division in Regeneration Program. Responsible for recording the medical history of\neach participant, preparing medicines and medical equipment, supervising and paying attention to the\ncondition of each participant in the, and providing assistance to participants who are sick or injured during the\nprogram.\nBeing a member of Media Communication and Information Division in Daily Executive Board. Responsible for\nrecording important information regarding the organization and members, broadcasting information to each\nmember via various social media, and managing UKSU [INSTITUTION_REDACTED]'s official social media.\nSKILLS\n2D & 3D Modeling, AutoCAD, SketchUp, Enscape, Lumion, Adobe Photoshop, Microsoft Office, Communication,\nTeamwork.\nEnglish (TOEFL Score: 606)\nAWARDS\nMost Favourite Final Project\nIkatan Mahasiswa Arsitektur Gunadharma\nApril 2021\nGot the most engagement and appreciation final project at Architecture Final Project Exhibition (Epilogue) [INSTITUTION_REDACTED]\n2021",
+        "redacted_items": [
+          {
+            "category": "Email",
+            "count": 1,
+            "sample_redacted_label": "[EMAIL_REDACTED]"
+          },
+          {
+            "category": "Nomor Telepon",
+            "count": 1,
+            "sample_redacted_label": "[PHONE_REDACTED]"
+          },
+          {
+            "category": "Alamat / Domisili",
+            "count": 1,
+            "sample_redacted_label": "[ADDRESS_REDACTED]"
+          },
+          {
+            "category": "Nama Kandidat",
+            "count": 1,
+            "sample_redacted_label": "[CAND-002]"
+          },
+          {
+            "category": "Nama Institusi Pendidikan (Anti Halo-Effect)",
+            "count": 5,
+            "sample_redacted_label": "[INSTITUTION_REDACTED]"
+          }
+        ],
+        "total_redactions": 9
+      }
+    },
+    {
+      "rank": 4,
+      "candidate_id": "CAND-003",
+      "candidate_name": "Mohamad",
+      "source_filename": "CV Sample 3.pdf",
+      "source_channel": "Direct Portal / Email Intake",
+      "overall_score": 65.2,
+      "semantic_similarity_score": 27.0,
+      "status": "Tidak Lolos Kualifikasi",
+      "needs_manual_review": false,
+      "manual_review_reasons": [],
+      "dimension_scores": {
+        "relevant_experience": 83.3,
+        "software_technical": 68.2,
+        "education": 45.0,
+        "responsibility_fit": 39.7,
+        "regulatory_readiness": 85.0
+      },
+      "matched_required_software": [
+        "AutoCAD",
+        "SketchUp"
+      ],
+      "missing_required_software": [
+        "Revit"
+      ],
+      "degree_requirement_met": false,
+      "experience_requirement_met": true,
+      "strengths": [
+        "Menguasai sebagian software/tools yang diminta (AutoCAD, SketchUp).",
+        "Memiliki 3.8 tahun pengalaman relevan bersih (setelah deduplikasi periode tumpang tindih).",
+        "Terdapat bukti eksplisit kepatuhan terhadap kode bangunan, standar keselamatan, atau regulasi lokal.",
+        "Memiliki pengalaman nyata lintas tahapan design & build (survei lokasi, gambar kerja/shop drawing, dan pengawasan proyek)."
+      ],
+      "gaps_and_risks": [
+        "Belum memenuhi syarat gelar sarjana (S1 Architecture/Interior Design masih berstatus aktif kuliah / belum lulus).",
+        "Belum mencantumkan penguasaan software/tools wajib: Revit.",
+        "Ringkasan CV mengklaim 10 tahun pengalaman, tetapi riwayat kerja yang terdokumentasi hanya mencakup 3.8 tahun (selisih 6.2 tahun). Perlu verifikasi bukti kerja pada tahap wawancara.",
+        "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP)."
+      ],
+      "decision_rationale": "Belum dapat dilanjutkan ke tahap wawancara untuk posisi Junior Architect karena belum menyelesaikan gelar sarjana (masih berstatus kuliah aktif), belum menguasai Revit.",
+      "interview_questions": [
+        "Di ringkasan CV tertulis pengalaman beberapa tahun lebih panjang dibanding riwayat yang tercantum. Bisa jelaskan proyek arsitektur/design & build yang dikerjakan pada periode yang belum tertulis?",
+        "Saat ini Anda masih tercatat menempuh pendidikan aktif. Bagaimana pengaturan jadwal kuliah apabila diterima untuk bergabung secara penuh waktu?",
+        "Mengingat posisi saat ini masih aktif bekerja penuh waktu, berapa lama masa notice period Anda dan kapan tanggal paling cepat dapat bergabung?"
+      ],
+      "anomaly_flags": [
+        "Ringkasan CV mengklaim 10 tahun pengalaman, tetapi riwayat kerja yang terdokumentasi hanya mencakup 3.8 tahun (selisih 6.2 tahun). Perlu verifikasi bukti kerja pada tahap wawancara."
+      ],
+      "pii_redactions_count": 6,
+      "pii_redacted_categories": [
+        "Email",
+        "Nomor Telepon",
+        "Alamat / Domisili",
+        "Nama Kandidat",
+        "Nama Institusi Pendidikan (Anti Halo-Effect)"
+      ],
+      "extracted_cv": {
+        "candidate_id": "CAND-003",
+        "source_filename": "CV Sample 3.pdf",
+        "source_channel": "Direct Portal / Email Intake",
+        "detected_name": "Mohamad",
+        "language_mix": "Bahasa Inggris",
+        "summary_text": "A professional with expertise in drafting and 3D visualization. With 10 years of experience since 2014, specializes in creating accurate and realistic technical designs and models. Combines creativity and",
+        "education": [
+          {
+            "degree_level": "Bachelor",
+            "field_of_study": "Bachelor of Architecture",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "In Progress",
+            "start_year": 2021,
+            "end_year": 2021,
+            "is_relevant_field": true,
+            "is_expected_graduation": false
+          },
+          {
+            "degree_level": "SMK/SMA",
+            "field_of_study": "Building Drawing Techniques",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "Completed",
+            "start_year": 2021,
+            "end_year": 2021,
+            "is_relevant_field": true,
+            "is_expected_graduation": false
+          }
+        ],
+        "work_experiences": [
+          {
+            "role": "Drafter & 3D Visualization",
+            "company": "PT Serpong Indah",
+            "employment_type": "Full-time",
+            "start_date": "2023-01",
+            "end_date": "Present",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan sebagian (fokus pada drafting teknis dan visualisasi 3D pemasaran properti, bukan perancangan konseptual penuh).",
+            "highlights": [
+              "Create detailed technical drawings and 3D models for various architectural and engineering",
+              "Develop and implement 3D virtual tours, resulting in a significant increase in sales and client",
+              "engagement.",
+              "Collaborate with design teams to ensure accuracy and precision in all visualizations and drafts.",
+              "Utilize advanced CAD software to enhance project efficiency and quality."
+            ]
+          },
+          {
+            "role": "Drafter & 3D Visualization",
+            "company": "PT Grand Utama Cemerlang",
+            "employment_type": "Full-time",
+            "start_date": "2021-01",
+            "end_date": "2023-01",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Produced technical drawings and blueprints for construction projects, ensuring compliance with",
+              "industry standards.",
+              "Conducted site visits to gather accurate measurements and project specifications.",
+              "Assisted in the creation of 3D visualizations to aid client presentations and approvals."
+            ]
+          }
+        ],
+        "organizational_experiences_count": 0,
+        "skills_raw": [
+          "Drafting & Technical Drawing",
+          "Design Collaboration & Teamwork",
+          "Attention to Detail & Precision",
+          "CAD Software Proficiency (e.g.,",
+          "Autocad, Skechup, enscape, Lumion,",
+          "D5 Render)",
+          "Project Visualization & Rendering",
+          "3D visualization & Modeling"
+        ],
+        "skills_normalized": [
+          "Technical Drawing",
+          "Design Collaboration",
+          "Teamwork",
+          "Attention to Detail",
+          "Precision",
+          "CAD Software Proficiency (e.g",
+          "AutoCAD",
+          "SketchUp",
+          "Enscape",
+          "Lumion",
+          "D5 Render",
+          "Project Visualization",
+          "Rendering",
+          "2D & 3D Modeling",
+          "Project Management"
+        ],
+        "has_building_codes_evidence": true,
+        "building_codes_evidence": [
+          "industry standards."
+        ],
+        "has_design_and_build_evidence": true,
+        "design_and_build_evidence": [
+          "Drafter & 3D Visualization (2021-01 s.d. 2023-01)"
+        ],
+        "has_supplier_or_material_evidence": true,
+        "availability_signals": [
+          "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP).",
+          "Sedang menempuh studi aktif: Bachelor (Bachelor of Architecture) (perlu konfirmasi jadwal kuliah vs kerja penuh waktu)."
+        ],
+        "currently_employed": true,
+        "currently_studying": true,
+        "timeline": {
+          "raw_sum_months_all": 47,
+          "merged_months_all": 46,
+          "raw_sum_months_relevant": 47,
+          "merged_months_relevant": 46,
+          "merged_years_relevant": 3.83,
+          "post_graduation_years_relevant": null,
+          "has_overlapping_roles": false,
+          "overlap_notes": [],
+          "claimed_years_in_summary": 10.0,
+          "claim_discrepancy_flag": true,
+          "claim_discrepancy_note": "Ringkasan CV mengklaim 10 tahun pengalaman, tetapi riwayat kerja yang terdokumentasi hanya mencakup 3.8 tahun (selisih 6.2 tahun). Perlu verifikasi bukti kerja pada tahap wawancara."
+        },
+        "raw_text_char_count": 2017,
+        "extraction_warnings": [],
+        "fallback_used": false,
+        "extraction_engine": "local_hybrid",
+        "llm_tokens_used": 0,
+        "estimated_cost_usd": 0.0
+      },
+      "pii_audit": {
+        "candidate_id": "CAND-003",
+        "detected_name": "Mohamad",
+        "anonymized_text": "[CAND-003]\nDRAFTER & 3D VISUALIZATION\n[ADDRESS_REDACTED] | [EMAIL_REDACTED] | [PHONE_REDACTED]\nA professional with expertise in drafting and 3D visualization. With 10 years of experience since 2014,\nspecializes in creating accurate and realistic technical designs and models. Combines creativity and\nprecision to bring concepts to life.\nAREA OF EXPERTISE\nDrafting & Technical Drawing\nDesign Collaboration & Teamwork\nAttention to Detail & Precision\nCAD Software Proficiency (e.g.,\nAutocad, Skechup, enscape, Lumion,\nD5 Render)\nProject Visualization & Rendering\n3D visualization & Modeling\nKEY ACHIEVEMENTS\nSales Increase . Developed and implemented a 3D virtual tour for a real estate project, resulting in a 25%\nincrease in property sales within the first three months.\nRevenue Growth . Enhanced client engagement by creating immersive 3D virtual tours, leading to a 30%\nboost in showroom traffic and inquiries.\nPROFESSIONAL EXPERIENCE\nPT Serpong Indah, Drafter & 3D Visualization 2023 - Present\nCreate detailed technical drawings and 3D models for various architectural and engineering\nprojects.\nDevelop and implement 3D virtual tours, resulting in a significant increase in sales and client\nengagement.\nCollaborate with design teams to ensure accuracy and precision in all visualizations and drafts.\nUtilize advanced CAD software to enhance project efficiency and quality.\nPT Grand Utama Cemerlang, Drafter & 3D Visualization 2021 - 2023\nProduced technical drawings and blueprints for construction projects, ensuring compliance with\nindustry standards.\nConducted site visits to gather accurate measurements and project specifications.\nAssisted in the creation of 3D visualizations to aid client presentations and approvals.\nEDUCATION\nBachelor of Architecture\n[INSTITUTION_REDACTED]\n2021- Present\nBuilding Drawing Techniques\n[INSTITUTION_REDACTED]\n2010- 2013\nRelevant coursework in Structural Design and Project Management.\nADDITIONAL INFORMATION\nLanguages: English, Indonesia.",
+        "redacted_items": [
+          {
+            "category": "Email",
+            "count": 1,
+            "sample_redacted_label": "[EMAIL_REDACTED]"
+          },
+          {
+            "category": "Nomor Telepon",
+            "count": 1,
+            "sample_redacted_label": "[PHONE_REDACTED]"
+          },
+          {
+            "category": "Alamat / Domisili",
+            "count": 1,
+            "sample_redacted_label": "[ADDRESS_REDACTED]"
+          },
+          {
+            "category": "Nama Kandidat",
+            "count": 1,
+            "sample_redacted_label": "[CAND-003]"
+          },
+          {
+            "category": "Nama Institusi Pendidikan (Anti Halo-Effect)",
+            "count": 2,
+            "sample_redacted_label": "[INSTITUTION_REDACTED]"
+          }
+        ],
+        "total_redactions": 6
+      }
+    },
+    {
+      "rank": 5,
+      "candidate_id": "CAND-005",
+      "candidate_name": "Dani",
+      "source_filename": "CV Sample 5.pdf",
+      "source_channel": "Direct Portal / Email Intake",
+      "overall_score": 47.2,
+      "semantic_similarity_score": 13.4,
+      "status": "Tidak Lolos Kualifikasi",
+      "needs_manual_review": false,
+      "manual_review_reasons": [],
+      "dimension_scores": {
+        "relevant_experience": 21.8,
+        "software_technical": 63.7,
+        "education": 45.0,
+        "responsibility_fit": 47.3,
+        "regulatory_readiness": 85.0
+      },
+      "matched_required_software": [
+        "AutoCAD",
+        "SketchUp"
+      ],
+      "missing_required_software": [
+        "Revit"
+      ],
+      "degree_requirement_met": false,
+      "experience_requirement_met": false,
+      "strengths": [
+        "Menguasai sebagian software/tools yang diminta (AutoCAD, SketchUp).",
+        "Terdapat bukti eksplisit kepatuhan terhadap kode bangunan, standar keselamatan, atau regulasi lokal.",
+        "Memiliki pengalaman nyata lintas tahapan design & build (survei lokasi, gambar kerja/shop drawing, dan pengawasan proyek)."
+      ],
+      "gaps_and_risks": [
+        "Belum memenuhi syarat gelar sarjana (S1 Architecture/Interior Design masih berstatus aktif kuliah / belum lulus).",
+        "Belum mencantumkan penguasaan software/tools wajib: Revit.",
+        "Pengalaman kerja bersih yang relevan di arsitektur/design & build baru sekitar 0.6 tahun (di bawah syarat minimal 2 tahun).",
+        "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP)."
+      ],
+      "decision_rationale": "Belum dapat dilanjutkan ke tahap wawancara untuk posisi Junior Architect karena belum menyelesaikan gelar sarjana (masih berstatus kuliah aktif), belum menguasai Revit, pengalaman relevan arsitektur/design & build baru 0.6 tahun.",
+      "interview_questions": [
+        "Saat ini Anda masih tercatat menempuh pendidikan aktif. Bagaimana pengaturan jadwal kuliah apabila diterima untuk bergabung secara penuh waktu?",
+        "Mengingat posisi saat ini masih aktif bekerja penuh waktu, berapa lama masa notice period Anda dan kapan tanggal paling cepat dapat bergabung?",
+        "Lowongan Junior Architect membutuhkan Revit. Sejauh mana familiaritas Anda dan berapa lama waktu adaptasi yang dibutuhkan?"
+      ],
+      "anomaly_flags": [
+        "1 riwayat kerja di luar domain posisi Junior Architect tidak dihitung sebagai pengalaman relevan."
+      ],
+      "pii_redactions_count": 9,
+      "pii_redacted_categories": [
+        "Email",
+        "Nomor Telepon",
+        "Tanggal Lahir / Usia",
+        "Alamat / Domisili",
+        "Nama Kandidat",
+        "Nama Institusi Pendidikan (Anti Halo-Effect)"
+      ],
+      "extracted_cv": {
+        "candidate_id": "CAND-005",
+        "source_filename": "CV Sample 5.pdf",
+        "source_channel": "Direct Portal / Email Intake",
+        "detected_name": "Dani",
+        "language_mix": "Bahasa Inggris",
+        "summary_text": "I am a graduate of [INSTITUTION_REDACTED] majoring in Architectural Building Modeling Design. I was [DOB_REDACTED]. I am known as an enthusiastic, disciplined, optimistic, confident and hardworking person.I can use Autodesk AutoCAD, 3D SketchUp, V-ray, and Enscape software. I have a strong will to learn, ready to work under pressure and ready to follow company regulations.",
+        "education": [
+          {
+            "degree_level": "Bachelor",
+            "field_of_study": "Department of Architectural Engineering",
+            "institution_redacted": "[INSTITUTION_REDACTED]",
+            "institution_original": "",
+            "status": "In Progress",
+            "start_year": 2023,
+            "end_year": 2023,
+            "is_relevant_field": true,
+            "is_expected_graduation": false
+          }
+        ],
+        "work_experiences": [
+          {
+            "role": "DRAFTER- TESTING TECHNICAL",
+            "company": "PT. STRUKTUR INDONESIA",
+            "employment_type": "Full-time",
+            "start_date": "2021-11",
+            "end_date": "Present",
+            "is_relevant_domain": false,
+            "relevance_reason": "Fokus utama pada pengujian struktur sipil/beton dan alat uji, bukan perancangan arsitektur atau interior design & build.",
+            "highlights": [
+              "Conducting tender preparation and technical team.",
+              "Detailed layout drawings for monitoring test area sensor placement.",
+              "Operate several Building, Road and Bridge Test Equipment.",
+              "Maintenance Building Test Equipment, Bridges, and Elevated Structures.",
+              "Testing the concrete integrity of the Pandanduri Dam tunnel, Lombok (2023).",
+              "Testing of the Elevated LRT JABODEBEK Structure (2022).",
+              "Work on Strain Gauge and Accelerometer SGLC [INSTITUTION_REDACTED] Building (2022).",
+              "Loading Test for the Elevated Railway between Medan-Binjai (2022).",
+              "Structural Health Monitoring System at Soekarno Special Bridge, Ampera Bridge (2021).",
+              "Concrete integrity testing at MRT Jakarta (2021)."
+            ]
+          },
+          {
+            "role": "JUNIOR ARCHITECT",
+            "company": "FREELANCE PROJECT",
+            "employment_type": "Freelance",
+            "start_date": "2021-03",
+            "end_date": "2021-09",
+            "is_relevant_domain": true,
+            "relevance_reason": "Relevan dengan domain arsitektur, desain interior, drafting teknis, atau pelaksanaan konstruksi.",
+            "highlights": [
+              "Drawing and designing interior and exterior space requirements.",
+              "Supervise and participate in development projects.",
+              "Compile development photo report documentation.",
+              "Drawing project completion details (Architectural, Structural and MEP).",
+              "Planning for Renovation of a 2-storey Residential House Type Raflesia (2022).",
+              "Scandinavian Concept 2-storey Residential Design (2022).",
+              "Planning for IMB for a 2-storey Residential House in Cengkareng (2021).",
+              "Design of a 2-floor Salon in Kediri Location (2021).",
+              "Shophouse Yard Roof Frame Development Planning (2020)"
+            ]
+          }
+        ],
+        "organizational_experiences_count": 0,
+        "skills_raw": [],
+        "skills_normalized": [
+          "AutoCAD",
+          "SketchUp",
+          "Enscape",
+          "V-Ray"
+        ],
+        "has_building_codes_evidence": true,
+        "building_codes_evidence": [
+          "Planning for IMB for a 2-storey Residential House in Cengkareng (2021)."
+        ],
+        "has_design_and_build_evidence": true,
+        "design_and_build_evidence": [
+          "JUNIOR ARCHITECT (2021-03 s.d. 2021-09)"
+        ],
+        "has_supplier_or_material_evidence": true,
+        "availability_signals": [
+          "Masih aktif bekerja penuh waktu (perlu konfirmasi masa notice period untuk join ASAP).",
+          "Sedang menempuh studi aktif: Bachelor (Department of Architectural Engineering) (perlu konfirmasi jadwal kuliah vs kerja penuh waktu)."
+        ],
+        "currently_employed": true,
+        "currently_studying": true,
+        "timeline": {
+          "raw_sum_months_all": 43,
+          "merged_months_all": 43,
+          "raw_sum_months_relevant": 7,
+          "merged_months_relevant": 7,
+          "merged_years_relevant": 0.58,
+          "post_graduation_years_relevant": null,
+          "has_overlapping_roles": false,
+          "overlap_notes": [],
+          "claimed_years_in_summary": null,
+          "claim_discrepancy_flag": false,
+          "claim_discrepancy_note": ""
+        },
+        "raw_text_char_count": 2612,
+        "extraction_warnings": [],
+        "fallback_used": false,
+        "extraction_engine": "local_hybrid",
+        "llm_tokens_used": 0,
+        "estimated_cost_usd": 0.0
+      },
+      "pii_audit": {
+        "candidate_id": "CAND-005",
+        "detected_name": "Dani",
+        "anonymized_text": "[CAND-005]\nA R C H I T E C T U R A L D R A F T E R\n[ADDRESS_REDACTED] | [PHONE_REDACTED] | [EMAIL_REDACTED]\nP R O F I L E\nI am a graduate of [INSTITUTION_REDACTED] majoring in Architectural Building Modeling\nDesign. I was [DOB_REDACTED]. I am known as an enthusiastic, disciplined,\noptimistic, confident and hardworking person.I can use Autodesk AutoCAD, 3D SketchUp, V-ray, and\nEnscape software. I have a strong will to learn, ready to work under pressure and ready to follow\ncompany regulations.\nW O R K E X P E R I E N C E\nDRAFTER- TESTING TECHNICAL Full Time (November 2021 - Present)\nPT. STRUKTUR INDONESIA\nConducting tender preparation and technical team.\nDetailed layout drawings for monitoring test area sensor placement.\nOperate several Building, Road and Bridge Test Equipment.\nMaintenance Building Test Equipment, Bridges, and Elevated Structures.\nPROJECT :\nTesting the concrete integrity of the Pandanduri Dam tunnel, Lombok (2023).\nTesting of the Elevated LRT JABODEBEK Structure (2022).\nWork on Strain Gauge and Accelerometer SGLC [INSTITUTION_REDACTED] Building (2022).\nLoading Test for the Elevated Railway between Medan-Binjai (2022).\nStructural Health Monitoring System at Soekarno Special Bridge, Ampera Bridge (2021).\nConcrete integrity testing at MRT Jakarta (2021).\nJUNIOR ARCHITECT Independet (March 2021-September 2021)\nFREELANCE PROJECT\nDrawing and designing interior and exterior space requirements.\nSupervise and participate in development projects.\nCompile development photo report documentation.\nDrawing project completion details (Architectural, Structural and MEP).\nPROJECT :\nPlanning for Renovation of a 2-storey Residential House Type Raflesia (2022).\nScandinavian Concept 2-storey Residential Design (2022).\nPlanning for IMB for a 2-storey Residential House in Cengkareng (2021).\nDesign of a 2-floor Salon in Kediri Location (2021).\nShophouse Yard Roof Frame Development Planning (2020)\nE D U C A T I O N S O F T A N D H A R D S K I L L S\nFORMAL EDUCATION\n[INSTITUTION_REDACTED] Department of\nArchitectural Engineering (2023-Present).\n[INSTITUTION_REDACTED]\nmajoring in Building Information and\nModeling Design (2018-2021).\nNON-FORMAL EDUCATION\nConstruction Services Development\nInstitute certification test (2020-2021).\nNetwork Computer Training Course\n(2018-2019).\nTeamwork\nCommunication\nAutoCAD\nSketchUp\nEnscape 3D\nCritical Thinking\nTime Management\nV-Ray Render\nA C H I E V E M E N T S\nStructural and Architectural Cluster Competency\nCertification Test (2021).\nRender Challenge Andi Rahman Architect (2020).\nDistrict-level Mathematics Olympiad (2014).",
+        "redacted_items": [
+          {
+            "category": "Email",
+            "count": 1,
+            "sample_redacted_label": "[EMAIL_REDACTED]"
+          },
+          {
+            "category": "Nomor Telepon",
+            "count": 1,
+            "sample_redacted_label": "[PHONE_REDACTED]"
+          },
+          {
+            "category": "Tanggal Lahir / Usia",
+            "count": 1,
+            "sample_redacted_label": "[DOB_REDACTED]"
+          },
+          {
+            "category": "Alamat / Domisili",
+            "count": 1,
+            "sample_redacted_label": "[ADDRESS_REDACTED]"
+          },
+          {
+            "category": "Nama Kandidat",
+            "count": 1,
+            "sample_redacted_label": "[CAND-005]"
+          },
+          {
+            "category": "Nama Institusi Pendidikan (Anti Halo-Effect)",
+            "count": 4,
+            "sample_redacted_label": "[INSTITUTION_REDACTED]"
+          }
+        ],
+        "total_redactions": 9
+      }
+    }
+  ]
+}
