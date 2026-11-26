@@ -1,6 +1,6 @@
 # Hybrid AI/ML CV Screening & Candidate Ranking Platform
 
-Platform otomatisasi seleksi dan perankingan CV berbasis **Hybrid AI/ML** yang dirancang adaptif untuk **berbagai posisi lowongan** (AI/ML Engineer, Software Engineer, Data Analyst, Arsitektur, hingga peran bisnis umum).
+Project ini merupana Proof of Concept untuk otomatisasi seleksi dan perankingan CV berbasis **Hybrid AI/ML** yang dirancang untuk berbagai type lowongan
 
 Proyek ini menggabungkan pemahaman konteks **LLM (DeepSeek API)** dengan **guardrail deterministik Python** untuk menjaga transparansi, reproduktibilitas skor, privasi data (*Blind Screening*), dan mekanisme *Human-in-the-Loop* (*Confidence Gate*).
 
@@ -11,7 +11,7 @@ Proyek ini menggabungkan pemahaman konteks **LLM (DeepSeek API)** dengan **guard
 3. **Blind Screening & PII Anonymization (`src/pii_anonymizer.py`)**: Menyensor otomatis nama kandidat, email, nomor telepon, tempat/tanggal lahir, alamat domisili, dan nama institusi pendidikan sebelum tahap evaluasi AI untuk meminimalkan bias serta mendukung kepatuhan UU PDP.
 4. **Hybrid Extraction & Deterministic Guardrails (`src/deepseek_client.py`, `src/fallback_extractor.py`, `src/timeline.py`, `src/skill_normalizer.py`)**:
    - **DeepSeek API (`deepseek-chat`)** dengan *Structured JSON Output* untuk pemahaman konteks proyek lintas domain, dilengkapi *retry* & *per-CV fallback* otomatis.
-   - **Mode Lokal Hybrid** (offline tanpa API Key) sebagai *baseline* deterministik cepat.
+   - **Mode Lokal Hybrid** (offline tanpa API Key) sebagai *baseline* cepat.
    - **Guardrail Python**: normalisasi alias & *typo* lintas domain (`PyTorch`, `FastAPI`, `LangChain`, `AutoCAD`, `SketchUp`, dll.), ekuivalensi stack (`FastAPI`/`Flask` → `REST API`), pemisahan pengalaman organisasi, *interval merging* untuk mendeduplikasi masa kerja tumpang tindih, pelacakan pengalaman pasca-lulus, dan deteksi anomali klaim durasi.
 5. **Hybrid Scoring, Confidence Gate & Pelaporan (`src/scorer.py`, `src/excel_exporter.py`)**:
    - Rubrik 5 dimensi yang bobotnya dapat disesuaikan HR + *TF-IDF Lexical Cosine Similarity* (baseline cepat pada PoC, dapat ditingkatkan ke *multilingual dense embeddings* pada produksi).
@@ -21,7 +21,7 @@ Proyek ini menggabungkan pemahaman konteks **LLM (DeepSeek API)** dengan **guard
 ## Struktur Folder
 
 ```text
-Jawaban_Ilham_A_A/
+This_project/
 ├── app.py                        # Aplikasi Web Streamlit interaktif (multi-posisi + dataset demo)
 ├── run_pipeline.py               # Skrip CLI end-to-end untuk batch processing + ekspor Excel/JSON
 ├── requirements.txt              # Daftar dependensi Python
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Konfigurasi API Key DeepSeek (Opsional untuk Mode DeepSeek)
-Salin `.env.example` menjadi `.env` (jangan pernah menyertakan file `.env` saat membagikan/mengarsipkan proyek), lalu masukkan API Key Anda:
+Salin `.env.example` menjadi `.env`, lalu masukkan API Key :
 ```env
 DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 DEEPSEEK_BASE_URL=https://api.deepseek.com
