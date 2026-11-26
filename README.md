@@ -54,16 +54,15 @@ streamlit run app.py
 ```
 
 ### 4. Menjalankan Pipeline CLI
-> **Catatan `--reference-date`:** Untuk dataset demo bawaan (Q4 2024), gunakan default `--reference-date 2024-10-01`. Untuk lowongan terbaru Anda sendiri, atur ke tanggal hari ini (misalnya `--reference-date 2026-11-25`).
 
 Mode Lokal Hybrid (offline, tanpa biaya API):
 ```powershell
 python run_pipeline.py
 ```
 
-Mode DeepSeek API dengan lowongan kustom:
+Mode DeepSeek API :
 ```powershell
-python run_pipeline.py --vacancy "path/ke/Vacancy_AI_Engineer.pdf" --cv-dir "path/ke/folder_cv" --engine deepseek --reference-date 2026-11-25
+python run_pipeline.py --vacancy "path/ke/your_vacancy.pdf" --cv-dir "path/ke/folder_cv" --engine deepseek --reference-date YYYY-MM-DD
 ```
 
 ### 5. Menjalankan Pengujian Otomatis
